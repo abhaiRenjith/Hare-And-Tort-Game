@@ -12,9 +12,3 @@ This program uses random moves for the hare and the tortoise to simulate their r
 
 Compile the source code and run the executable. The program will output the progress of the race, showing the positions of the hare (H) and the tortoise (T) at each turn.
 
-```bash
-# Compile the program
-gcc hare_tortoise_race.c -o race_simulator
-
-# Run the program
-./race_simulator
