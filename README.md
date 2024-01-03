@@ -1,5 +1,6 @@
 # Hare-And-Tort-Game
-The ultimate hare and tort race simulator
+The ultimate hare and tort race simulator.
+
 A simple console-based program that simulates a race between a hare and a tortoise.
 
 ## Description
